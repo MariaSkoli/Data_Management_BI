@@ -1,0 +1,22 @@
+INSERT INTO Agent (ID,Name, Last_Name, Gender,Age, Address) 
+VALUES (1, 'Maria', 'Skoli', 'Female', 24, 'Parnassou 57'),
+(2, 'Eftychia', 'Gkini', 'Female', 24, 'Kopanakiou 8'),
+(3, 'Christian', 'Karapas', 'Male', 56, 'Xiou 34'),
+(4, 'John', 'Papadopoulos', 'Male', 62 , 'Dwdekanisou 3'),
+(5, 'Nick', 'Oikonomopoulos', 'Male', 40, 'Alimou 24'),
+(6, 'Jason', 'Williams', 'Male', 44, 'Pindou 65'),
+(7, 'Natalia', 'Abatzidou', 'Female', 52, 'Thrakis 9'),
+(8, 'Barbara', 'Panagopoulou', 'Female', 34, 'Ymmhtou 17'),
+(9, 'Jack', 'Jones', 'Male', 37, 'Makedonias 43'),
+(10, 'Constantine', 'Papakostas', 'Male', 32, 'Ermoupoli 23'),
+(11, 'Michael', 'Koutsoumaris', 'Male', 55, 'Souli 4'),
+(12, 'Peter', 'Smith', 'Male', 28, 'Tripolis 19'),
+(13, 'Stella', 'Mitropoulou', 'Female', 30, 'Platwnos 8'),
+(14, 'Helen', 'Blachaki', 'Female', 45, 'Marousi 58'),
+(15, 'Alice', 'Plati', 'Female', 43, 'Olympou 27'),
+(16, 'George', 'Gaveras', 'Male', 35 , 'Agias Theklas 17'),
+(17, 'Alex', 'Skondras', 'Male', 43, 'Korai 20'),
+(18, 'George', 'Vasileiou', 'Male', 53, 'Peiraiws 34'),
+(19, 'Joanne', 'Andreopoulou', 'Female', 49, 'Papanikoli 23'),
+(20, 'Constantine', 'Alamanis', 'Male', 26, 'Patroklou 13')
+GO

@@ -1,0 +1,41 @@
+INSERT INTO [Property]
+([ID],[Address],[Floor_Property],[Size],[Year_of_Construction],[Id_Region],[Type],[AFM],[Identity_Number])
+VALUES
+(1,'Kopanakiou 8',3,91,1995,1,'Apartments',NULL,'AB 170125'),
+(2,'Parnassou 53',1,104,1997,5,'Apartments',NULL,'AK 180896'),
+(3,'Paparigopoulou 54',2,89,1992,3,'Apartments',NULL,'AI 48536'),
+(4,'Athinwn 15',4,215,2010,4,'Office',290000045,NULL),
+(5,'Souliou 89',1,68,2004,1,'Apartments',NULL,'AK 14256'),
+(6,'Naxou 12',4,112,2015,12,'Apartments',NULL,'AK 18976'),
+(7,'Kountouriwtou 7',2,156,2015,8,'Apartments',NULL,'AK 27845'),
+(8,'Tripolews 17',1,87,1987,6,'Apartments',NULL,'AG 21786'),
+(9,'Athanasiou 67',5,168,2016,10,'Office',445898005,NULL),
+(10,'Xalikidiwn 67',2,92,2000,15,'Office',184696479,NULL),
+(11,'Psiloreitou 9',4,108,2018,14,'Apartments',NULL,'AP 26745'),
+(12,'Pantwn 9',2,78,2013,20,'Apartments',NULL,'AP 13984'),
+(13,'Andromaxis 109',4,98,1992,18,'Apartments',NULL,'AP 14878'),
+(14,'Minwos 23',3,68,1989,19,'Apartments',NULL,'AP 14878'),
+(15,'Kerasias 23',1,79,1999,7,'Office',785612895,NULL),
+(16,'Solwmou 18',6,117,2017,5,'Office',167859462,NULL),
+(17,'Prigkipos Petrou 78',4,96,2017,16,'Apartments',NULL,'AL 22456'),
+(18,'Kalamwn 14',2,102,2020,10,'Apartments',NULL,'AS 31486'),
+(19,'Sofokleous 37',2,187,2015,6,'Apartments',NULL,'AK 32458'),
+(20,'El. Venizelou 52',3,73,2016,19,'Apartments',NULL,'AM 31245'),
+(21,'Thisews 1',1,87,1996,2,'Apartments',NULL,'AL 22456'),
+(22,'Laskaridou 29',3,81,2001,5,'Office',125900153,NULL),
+(23,'Spastis 73',2,126,2009,6,'Office',632678597,NULL),
+(24,'Thessalonikis 29',4,68,2013,15,'Apartments',NULL,'AT 87652'),
+(25,'Florinis 38',6,96,2013,20,'Apartments',NULL,'AM 59786'),
+(26,'Agias Annas 16',1,116,2016,13,'Office',125874968,NULL),
+(27,'Dwdekanisou 129',3,76,2013,17,'Apartments',NULL,'AN 18765'),
+(28,'Thivwn 46',2,85,2012,14,'Apartments',NULL,'AS 32657'),
+(29,'Platwnos 276',2,189,2013,9,'Apartments',NULL,'AR 34619'),
+(30,'Axilleous 18',1,112,2018,11,'Apartments',NULL,'AB 12586'),
+(31,'Axillea Paraskou 26',3,180,2019,12,'Apartments',NULL,'AG 16385'),
+(32,'Axarnwn 26',3,82,2017,18,'Office',785236942,NULL),
+(33,'Kuprou 32',2,100,2019,9,'Apartments',NULL,'AM 65789'),
+(34,'Delfwn 88',1,88,2018,2,'Apartements',NULL,'AL 36845'),
+(35,'Priamou 6',5,93,1985,6,'Office',074526498,NULL)
+GO
+
+

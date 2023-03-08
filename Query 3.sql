@@ -1,0 +1,1 @@
+--Δείξε τον κωδικό των ακινήτων που έχουν εκτιμηθεί περισσότερες από δύο φορές μέσα στο 2020.Select E.Id_Property from Estimation as Ewhere  Year(E.Date)=2020  group by E.Id_Property having count(E.Id_Property) >= 2 
